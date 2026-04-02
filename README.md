@@ -45,9 +45,9 @@ As part of my journey toward a Q1 publication, I am actively exploring:
 ---
 
 ## 📈 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **LeetCode:** [Your LeetCode Profile Link]
-- **Academic Archive:** [Link to your UIU-CSE-Academic-Archive]
+- **LinkedIn:** [www.linkedin.com/in/rayhan-khan-dev]
+- **LeetCode:** [www.github.com/in/rayhan-khan-dev]
+- **Academic Archive:** [https://github.com/rayhan-khan-dev/UIU-CSE-Academic-Archive]
 
 ---
-*“Success is a journey, not a destination. Coding my way to Germany, one commit at a time.”*
+*“Success is a journey, not a destination. START EARLY. FAIL OFTEN. LEARN FATSER.”*
