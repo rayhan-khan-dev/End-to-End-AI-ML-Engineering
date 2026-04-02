@@ -44,10 +44,7 @@ As part of my journey toward a Q1 publication, I am actively exploring:
 
 ---
 
-## 📈 Connect with Me
-- **LinkedIn:** [www.linkedin.com/in/rayhan-khan-dev]
-- **LeetCode:** [www.github.com/in/rayhan-khan-dev]
-- **Academic Archive:** [https://github.com/rayhan-khan-dev/UIU-CSE-Academic-Archive]
+## 📈 Connect with Me[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rayhan-khan-dev/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEuxLWH8QTIuF5WW7LG8ZNQ%3D%3D) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/rayhan-khan-dev/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayhankhanofficial24@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iniq_uitous_2) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1bQEJodZ6L/)
 
 ---
 *“Success is a journey, not a destination. START EARLY. FAIL OFTEN. LEARN FATSER.”*
