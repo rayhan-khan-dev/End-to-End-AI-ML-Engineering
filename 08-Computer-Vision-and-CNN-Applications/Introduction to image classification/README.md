@@ -1,0 +1,3 @@
+# Note
+
+Introduction to image classification | Overview of CNN for image classification | Using Keras for building CNN models | Loading and preprocessing image data | Defining the CNN architecture in Keras | Adding convolution, activation, and pooling layers | Flattening and adding fully connected layers | Compiling the model with optimizer, loss, and metrics | Training the model with image data | Evaluating model performance on test data | Image preprocessing techniques: resizing, normalization | Data augmentation for Image Data

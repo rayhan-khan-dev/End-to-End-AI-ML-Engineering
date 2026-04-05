@@ -1,0 +1,3 @@
+# Note
+
+Introduction to function calling with GPT models | Using GPT for structured outputs like JSON, tables, or lists | Designing prompts for structured responses | Calling external functions or APIs from within a prompt | Handling structured data in response formats | Parsing and formatting structured outputs from GPT | Integrating GPT with external systems for dynamic function calls | Use cases of function calling in automation, data extraction, and decision-making tasks | Best practices for optimizing structured output quality

@@ -1,0 +1,3 @@
+# Note
+
+Introduction to the full Retrieval-Augmented Generation (RAG) pipeline | Ingestion of data for RAG systems: collecting and processing raw data | Preprocessing data for embedding generation | Using embeddings to represent data in vector space | Introduction to embeddings: how they capture semantic meaning | Generating embeddings with models like BERT or Sentence Transformers | Storing and indexing embeddings for efficient retrieval | Retrieval process: searching for relevant documents or data based on query

@@ -1,0 +1,2 @@
+# note 
+Introduction to linear regression | Fitting a line to data using least squares | Understanding slope and intercept | What is overfitting in regression | Introduction to regularization | Ridge regression and L2 penalty | Lasso regression and L1 penalty | Comparing ridge and lasso | When to use ridge vs lasso

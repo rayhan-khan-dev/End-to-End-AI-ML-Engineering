@@ -1,0 +1,3 @@
+# Note
+
+Introduction to the attention mechanism | How attention allows models to focus on important parts of the input | Types of attention: hard and soft attention | Self-attention and its role in sequence processing | Introduction to Transformer architecture | Key components of Transformers: Encoder and Decoder | Multi-head attention mechanism | Positional encoding to preserve sequence order | Advantages of Transformers over RNNs and LSTMs | Applications of Transformers in NLP tasks like translation and summarization

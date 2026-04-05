@@ -1,0 +1,3 @@
+# NOte
+
+ Introduction to multi-agent systems | How multiple agents interact and collaborate to solve problems | Example 1: Multi-agent system for recommendation engines | Agents working together to provide personalized suggestions | Example 2: Collaborative robots in manufacturing | Coordinating tasks between robots to improve efficiency | Example 3: Autonomous vehicle fleet management | Multiple agents managing traffic flow and navigation

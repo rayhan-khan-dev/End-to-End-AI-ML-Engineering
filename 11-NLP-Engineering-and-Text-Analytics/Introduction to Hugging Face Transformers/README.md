@@ -1,0 +1,3 @@
+# Note
+
+Introduction to Hugging Face Transformers | Overview of BERT and GPT models | Understanding pre-trained models and transfer learning | Fine-tuning BERT for text classification tasks | Preparing the dataset for fine-tuning | Training BERT with custom data using Hugging Face’s Trainer API | Fine-tuning GPT for text generation tasks | Adjusting hyperparameters during fine-tuning | Evaluating model performance on downstream tasks | Using pre-trained Hugging Face models for various NLP applications

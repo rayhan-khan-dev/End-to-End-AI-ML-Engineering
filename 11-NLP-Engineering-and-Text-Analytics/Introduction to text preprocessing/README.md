@@ -1,0 +1,3 @@
+# Note
+
+Introduction to text preprocessing | What is tokenization and how it works | Breaking text into words or sentences | Introduction to lemmatization | Reducing words to their base form using lemmatization | What are stopwords and why remove them | Identifying and filtering stopwords in text | Using libraries like NLTK or SpaCy for preprocessing | Combining tokenization, lemmatization, and stopwords removal for clean text data

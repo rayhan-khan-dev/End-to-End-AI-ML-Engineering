@@ -1,0 +1,3 @@
+# Note
+
+Introduction to chains in NLP workflows | Combining multiple tasks or steps using chains | Using memory in AI models for context retention | Implementing memory to maintain state across interactions | Creating prompt templates for consistent input formatting | Benefits of reusable prompt templates in large-scale applications | How chains and memory work together in task automation | Example use cases of chains, memory, and templates in complex tasks like conversation bots and multi-step reasoning | Optimizing performance with chains and templates

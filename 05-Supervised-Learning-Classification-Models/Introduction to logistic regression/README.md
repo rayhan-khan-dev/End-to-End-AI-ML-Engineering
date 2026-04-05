@@ -1,0 +1,3 @@
+# note
+
+Introduction to logistic regression | Understanding sigmoid function and probabilities | Binary classification with logistic regression | Introduction to K-Nearest Neighbors (KNN) | How KNN makes predictions based on distance | Choosing the right value of K | Introduction to decision trees | Splitting criteria: Gini and Entropy | Overfitting and pruning in decision trees | Comparing logistic, KNN, and decision trees

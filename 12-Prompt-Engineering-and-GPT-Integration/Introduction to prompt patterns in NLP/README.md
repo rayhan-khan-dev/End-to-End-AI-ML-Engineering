@@ -1,0 +1,3 @@
+# Note
+
+Introduction to prompt patterns in NLP | Designing effective prompts for different tasks | Few-shot learning and how it reduces data requirements | Understanding few-shot, one-shot, and zero-shot learning | Introduction to OpenAI API | Overview of GPT models and their capabilities | Making API requests to OpenAI for text generation and understanding tasks | Prompt engineering for better results | Fine-tuning models with custom prompts for specific tasks | Using OpenAI API in real-world applications like chatbots, summarization, and translation

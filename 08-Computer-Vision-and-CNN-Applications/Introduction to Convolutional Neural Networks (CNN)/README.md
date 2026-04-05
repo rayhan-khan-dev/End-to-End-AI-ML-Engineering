@@ -1,0 +1,3 @@
+# Module Notes
+
+Introduction to Convolutional Neural Networks (CNN) | What is computer vision? Use cases in industry | Basics of CNNs: convolution, pooling, flatten, FC | CNN architecture overview: input, convolution, pooling, fully connected layers | What is a convolution layer and its purpose | Applying filters to input images | Understanding kernel size and stride | Max pooling and average pooling layers | Reducing spatial dimensions with pooling | Role of convolution and pooling in feature extraction

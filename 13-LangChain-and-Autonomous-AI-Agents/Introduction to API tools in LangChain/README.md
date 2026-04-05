@@ -1,0 +1,3 @@
+# Note
+
+Introduction to API tools in LangChain | Using built-in API tools for integrating external services | Handling API requests and responses with LangChain | Introduction to file tools for managing document-based inputs | Reading, writing, and processing files in pipelines | Using LangChain to process and analyze file data (CSV, JSON, text) | Error handling strategies in LangChain workflows | Catching and managing exceptions in API and file tool interactions | Debugging and logging in LangChain | Best practices for building robust workflows with error handling

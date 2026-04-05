@@ -1,0 +1,3 @@
+# Note
+
+Introduction to word embeddings | What is TF-IDF (Term Frequency-Inverse Document Frequency) | How TF-IDF captures word importance in a corpus | Introduction to Word2Vec and its two models: Continuous Bag of Words (CBOW) and Skip-gram | Training Word2Vec on text data to create word embeddings | What is GloVe (Global Vectors for Word Representation) | How GloVe differs from Word2Vec and captures global word relationships | Using pre-trained embeddings for NLP tasks | Comparing TF-IDF, Word2Vec, and GloVe for various applications

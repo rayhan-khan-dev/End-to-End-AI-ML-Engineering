@@ -1,0 +1,3 @@
+# Note
+
+Introduction to FAISS (Facebook AI Similarity Search) | Using FAISS for efficient similarity search and nearest neighbor search | How FAISS works with high-dimensional data | Introduction to Chroma for scalable vector storage | Using Chroma for real-time, fast retrieval of vector-based data | Overview of LangChain retriever | Integrating LangChain with FAISS and Chroma for document retrieval | How LangChain handles retrieval-augmented generation (RAG) tasks | Benefits of combining FAISS, Chroma, and LangChain for high-performance information retrieval | Use cases in document search, semantic search, and knowledge extraction
