@@ -7,7 +7,7 @@ Welcome to my comprehensive AI/ML journey. This repository documents my transiti
 ## 🎯 Career Objectives
 - **Current Goal:** Mastering the AI/ML Engineering pipeline via the Ostad Bootcamp.
 - **Academic Focus:** CSE Student at United International University (UIU).
-- **Research Goal:** Publishing a ** Research Paper** in Machine Intelligence.
+- **Research Goal:** Publishing a **Research Paper** in Machine Intelligence.
 - **Future Milestone:** Pursuing an MSc and Ph.D. in **Germany** specializing in AI.
 
 ---
